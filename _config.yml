@@ -58,8 +58,11 @@ permalink: /:title/
 # The release of Jekyll Now that you're using
 version: v1.2.0
 
-# Maruku for better MathJax support
-markdown: maruku
+# Kramdown
+markdown: kramdown
+
+# Add mathjax support
+mathjax: true
 
 # Set the Sass partials directory, as we're using @imports
 sass:
