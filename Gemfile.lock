@@ -39,6 +39,8 @@ GEM
       safe_yaml (~> 1.0)
       sinatra-index (~> 0.0)
       sinatra_auth_github (~> 1.1)
+    jekyll-feed (0.8.0)
+      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-sitemap (0.12.0)
@@ -98,6 +100,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll-auth
+  jekyll-feed
   jekyll-sitemap
 
 BUNDLED WITH
