@@ -1,6 +1,9 @@
 ---
 layout: post
 comments: true
+tags:
+- ml
+- code
 title: Rejection Sampling a Gaussian
 ---
 
