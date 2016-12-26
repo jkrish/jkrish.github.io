@@ -4,6 +4,7 @@ comments: true
 tags:
 - ml
 - code
+- sampling
 title: Rejection Sampling a Gaussian
 ---
 
